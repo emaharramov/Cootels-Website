@@ -1,0 +1,447 @@
+.other3 {
+    width: 80%; 
+    margin: auto;
+}
+#other0 {
+    width: 100%; 
+    margin: auto; 
+    display: flex; 
+    flex-direction: column;
+}
+#navmain2 {margin: 30px 0 0 0; text-align: center;}
+#h2 { 
+    padding-left: 20px; 
+    text-align: center; 
+    font: 600 2em 'Montserrat'; 
+    color: #192252;
+}
+#sec2 img {
+    width: 100%; 
+    padding: 0 10px 0 0; 
+    margin-bottom: 10px;
+}
+.prt {
+    margin-bottom: 20px; 
+    display: flex;
+}
+.prt img {
+    width: 32%; 
+    margin: 0 3px 0 0;
+}
+.menu {
+    cursor: pointer;
+    text-align: center;
+}
+.menu li {
+    margin-top: 15px;
+}
+.menu li a {
+    font: 1em 'Inter';
+    color: #192252;
+}
+.btn {margin: 5px 0;}
+.btn a {
+    background-color: #0e1734;
+    border-radius: 4px;
+    border: none;
+    padding: 14px 16px;
+    border: 1px solid #0e1734;
+    transition: 0.5s;
+    color: #fff;
+}
+#textarea5 {
+    max-width: 530px; 
+    padding: 100px 0 0 0; 
+    margin-right: 10px;
+}
+.btn1 {
+    margin-top: 37px;
+}
+h3 {
+    margin: 0 0 0 0;
+    font: 600 2em 'Montserrat';
+    color: #192252;
+}
+#h3mrgn {
+    margin-top: 40px;
+}
+h4 {
+    margin: 32px 0 0 0;
+    color: #000;
+    font: 600 1.5em 'Montserrat';
+}
+#h4 {
+    color: #192252;
+    font:600 2em 'Montserrat';
+}
+h6 {
+    text-align: left;
+    color: #424f7b;
+    font: 1.13em 'Inter';
+}
+#cntct {
+    display: flex; 
+    flex-direction: row;}
+.articleimg {
+    width: 100%; 
+    margin: 10px 0;}
+.articlep {
+    text-align: left;
+    width: 100%;
+    color: #848fac;
+    font: 1.13em 'Inter';
+}
+.learnmore  {
+    text-align: left;
+    font: 1.13em 'Inter';
+    color: #424f7b;
+}
+.text {
+    margin: 24px 0 32px 0;
+    font: 1.13em 'Inter';
+    color: #848fac;
+}
+.text2 {
+    max-width: 520px;
+    margin: 14px auto;
+    font: 1.13em 'Inter';
+    color: #848fac;
+}
+.text3 {
+    text-align: center;
+    margin: 14px auto;
+    font: 1.13em 'Inter';
+    color: #848fac;
+}
+#text4 {
+    padding: 14px 0 14px 0;
+    color: #848fac;
+    font: 1.1em 'Inter';
+}
+#explore {
+    display: flex;
+    align-items: end;
+    font: .8em 'Inter';
+    color: #0e1734;
+    cursor: pointer;
+}
+#section4 {
+    margin: 30px 0 0 0;
+}
+.section-1-1 {
+    padding-right: 24px;
+}
+.section-1-2 {
+    display: flex; 
+    margin: auto;
+}
+.part {
+    width: 25vw;
+}
+#menufootveb {
+    text-align: center;
+}
+#img {
+    width: 100%; 
+    margin: auto; 
+    display: flex; 
+    justify-content: center;
+}
+#img img {
+    width: 80%; 
+    margin: auto; 
+    display: flex;
+}
+#textarea {
+    width: 100%;  
+    margin: auto; 
+    padding: 0;
+}
+.txt {
+    width: 100%;
+}
+.txtother {
+    text-align: left; 
+    max-width: 300px;
+}
+#headtext {
+    font: 600 2em 'Montserrat';
+    color: #192252;
+    text-align: center;
+    margin: 80px 0 62px 0;
+}
+#customerimg {
+    margin: 0 auto 42px auto;
+    display: flex;
+}
+#customercomment {
+    color: #848fac;
+    font: 1.13em 'Inter';
+    text-align: center;
+}
+#customername {
+    font: 1.25em 'Inter';
+    color: #192252;
+    text-align: center;
+    margin-top: 40px;
+}
+#otherpages {
+    text-align: center; 
+    margin: 24px 0 80px 0; 
+    cursor: pointer;
+}
+#otherpages img {
+    padding: 0 6px;
+}
+.bgfoot {
+    background-color: #0B265A;
+}
+#foothead {
+    color: #fff;
+    font: 700 2em 'Montserrat';
+    padding: 50px 0 10px 0;
+}
+#foottext {
+    color: #d9d9d9; 
+    font: 1em/1.5 'Inter'
+}
+.sociali {
+    padding: 0 5px; 
+    cursor: pointer;
+}
+#footsec1 {
+    width: 100%; 
+    margin: auto; 
+}
+#orange {
+    color: orange;
+}
+#foottext {
+    margin-bottom: 36px;
+}
+#footmenuhead { 
+    margin: 30px 0; 
+    font: 700 1em 'Inter'; 
+    color: #fff; }
+#menufoot li {
+    padding: 10px 0 0 0;
+}
+#menufoot li a { 
+    font: 1em 'Inter'; 
+    color: #d9dbd9; 
+}
+.prtflex {
+    display: flex;
+}
+#footmenu-2 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+.textm {
+    padding: 24px 0;
+}
+@media only screen and (min-width: 768px) {
+    h2 {
+        margin-top: 46px;
+    }
+    .menu {
+        display: flex;
+    }
+    #navmain {
+        width: 100%;
+    }
+    #navmain2 {
+        width: 80%; 
+        margin: auto; 
+        display: flex; 
+        justify-content: space-around; 
+    }
+    #sec2 {
+        padding: 70px 0 0 0; 
+        margin-bottom: 10px;
+    }
+    #sec2 img {
+        width: 300px;
+    }
+    .menu li a {
+        margin: 0 10px;
+    }
+    .menu li {
+        margin-top: 56px; 
+        filter: opacity(0.5); 
+        transition: 0.7s;
+    }
+    .menu li:hover {
+        filter: opacity(1);
+    }
+    h3 {
+        font-size: 3em;
+    }
+    h6 {
+        padding: 160px 0 0 0;
+    }
+    .section {
+        display: flex; 
+        justify-content: space-between;
+    }
+    .section-1-1 {
+        padding-top: 150px;
+    }
+    .section-1-1 p {
+        max-width: 485px;
+    }
+    .section-1-2 {
+        margin: 0;
+    }
+    .other3 {
+        width: 80%; 
+        margin: auto; 
+        display: flex;
+    }
+    #other0 {
+        width: 100%; 
+        margin: auto; 
+        display: flex; 
+        flex-direction: row; 
+        justify-content: space-evenly;
+    }
+    #part {
+        margin: 80px auto; 
+        max-width: 350px;
+    }
+    #part2 {
+        margin: 80px auto; 
+        max-width: 350px;
+    }
+    #sec2 {
+        margin: 20px 0 0 0; 
+        max-width: 384px; 
+        height: 384px;
+    }
+    .other31 {
+        display: flex; 
+        margin: auto;
+    }
+    #choosetext {
+        text-align: center;
+    }
+    #btn {
+        width: 80%; 
+        margin: auto; 
+        text-align: center;
+    }
+    .other{
+        width: 80%; 
+        margin: auto; 
+        display: flex;
+    }
+    #other2 {
+        width: 100%; 
+        margin: auto; 
+        display: flex; 
+        justify-content: space-between;
+    }
+    #textarea { 
+        padding: 50px 0 0 0; 
+        text-align: center; 
+        max-width: 600px;
+    }
+    .learnmore {
+        display: flex; 
+        padding-left: 10px;
+    }
+    .part {width: 100px;}
+    #textarea5 {
+        max-width: 540px; 
+        padding: 100px 0 0 0;
+    }
+    .btn {margin-bottom: 87px;}
+    #img img {
+        width: 380px; 
+        padding: 20px 20px 0 0 ;
+    }
+    .articleimg {
+        max-width: 300px; 
+        padding: 0 10px;
+    }
+    .articlep {
+        padding: 20px 10px; 
+        max-width: 280px;
+    }
+    .margin {
+        margin: 0 auto 80px auto;
+    }
+    #section4 {
+        width: 410px; 
+        margin: 150px 10px 150px 0;
+    }
+    #section4-main {
+        width: 80%; 
+        margin: auto; 
+        display: flex; 
+        justify-content: space-between;
+    }
+    #section4-1 {max-width: 590px; }
+    .faq {
+        width: 330px; 
+        padding: 80px 0; 
+    }
+    .text3 {width: 588px;}
+    #testimonial {
+        width: 80%; 
+        margin: auto;
+    }
+    #customercomment {
+        max-width: 794px; 
+        margin: auto;
+    }
+    #explore {
+        display: flex; 
+        align-items: center;
+    }
+    #footsec1 {
+        width: 180px!important ;
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 30px 0 0 0;
+    }
+    #foothead {
+        margin: 0 0 23px 0; 
+        padding: 0;
+    }
+    #foottext {margin-bottom: 36px;}
+    #bgfoot {width: 100%;}
+    #footmenu-2 {
+        padding: 120px 0;  
+        width: 80%; 
+        margin: auto;
+        display: flex;
+        justify-content: space-around;
+    }
+    #menufootveb {
+        display: flex;
+    }
+    #footmenuhead {text-align: center;}
+    #example {
+        max-width: 180px; 
+        margin:0 40px;
+    }
+    #example3 {margin: 80px 0 0 0;}
+    #example2 {
+        display: flex; 
+        flex-direction: column; 
+        text-align: center;}
+    .btn:hover a {
+        color: #0e1734; 
+        background-color: #fff;
+    }
+    .sociali {
+        filter: opacity(0.5); 
+        transition: 0.6s;
+    }
+    .sociali:hover {filter: opacity(1);}
+    #menufoot li a:hover {text-decoration: underline; }
+    #explore:hover {text-decoration: underline; }
+    .learnmore:hover {text-decoration: underline; }
+}

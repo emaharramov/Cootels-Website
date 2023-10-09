@@ -201,10 +201,6 @@ h6 {
     font: 700 2em 'Montserrat';
     padding: 50px 0 10px 0;
 }
-#foottext {
-    color: #d9d9d9; 
-    font: 1em/1.5 'Inter'
-}
 .sociali {
     padding: 0 5px; 
     cursor: pointer;
@@ -215,9 +211,6 @@ h6 {
 }
 #orange {
     color: orange;
-}
-#foottext {
-    margin-bottom: 36px;
 }
 #footmenuhead { 
     margin: 30px 0; 
@@ -239,6 +232,13 @@ h6 {
 }
 .textm {
     padding: 24px 0;
+}
+#foottext {
+    width: 130px;
+    color: #d9d9d9; 
+    font: 1em/1.5 'Inter';
+    padding-bottom: 36px;
+    margin: auto;
 }
 @media only screen and (min-width: 768px) {
     h2 {
